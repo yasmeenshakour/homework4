@@ -349,8 +349,8 @@ header p{
     padding: 6px;
     position: absolute;
     top: -40px;
-    -webkit-transition: /* Your code here - set to default setting */
-    transition: /* Your code here - set to default setting */
+    -webkit-transition: initial/* Your code here - set to default setting */
+    transition: initial/* Your code here - set to default setting */
     z-index: 1;
   }
 
